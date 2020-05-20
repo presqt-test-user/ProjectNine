@@ -1,0 +1,55 @@
+{
+    "allEnhancedKeywords": [
+        "covid-19",
+        "risk of death",
+        "risk of death by age",
+        "covid",
+        "case fatality rate",
+        "covid19",
+        "coronavirus",
+        "mortality by age",
+        "risk",
+        "case fatality",
+        "mortality rate",
+        "death rate",
+        "probability of death",
+        "age-adjusted mortality",
+        "age-adjusted case fatality",
+        "age-adjusted case fatality rate",
+        "age-adjusted case mortality rate",
+        "data science for covid-19",
+        "ds4c",
+        "korean"
+    ],
+    "actions": [
+        {
+            "id": "cc3de92a-1119-4893-ba8e-c7f7d1b582ec",
+            "actionDateTime": "2020-05-18 15:10:48.120280+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "zenodo",
+            "sourceUsername": 97643,
+            "destinationTargetName": "osf",
+            "destinationUsername": "PresQT QA",
+            "keywordEnhancements": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/COVID-19 risk of death by age/osfstorage/orange_canvas_covid19riskofdeath.png",
+                        "destinationHashes": {
+                            "sha256": "e2cc747ab9f6c071179e04a14a3d228fbacd0281f832e6cf95b1b8607097b13f"
+                        },
+                        "failedFixityInfo": [],
+                        "title": "orange_canvas_covid19riskofdeath.png",
+                        "sourceHashes": {
+                            "md5": "6b848e6c1eda36c4cfa06e6217a0e33e"
+                        },
+                        "sourcePath": "/COVID-19 risk of death by age/orange_canvas_covid19riskofdeath.png",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
