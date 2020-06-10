@@ -1,5 +1,5 @@
 {
-    "allEnhancedKeywords": [
+    "allKeywords": [
         "covid-19",
         "risk of death",
         "risk of death by age",
@@ -30,7 +30,7 @@
             "sourceUsername": 97643,
             "destinationTargetName": "osf",
             "destinationUsername": "PresQT QA",
-            "keywordEnhancements": {},
+            "keywords": {},
             "files": {
                 "created": [
                     {
