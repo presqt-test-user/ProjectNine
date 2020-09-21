@@ -1,0 +1,93 @@
+{
+    "allKeywords": [
+        "water",
+        "OXYGEN ATOM",
+        "water",
+        "Wasser",
+        "DISORDERED SOLVENT",
+        "Water",
+        "oxidane",
+        "dihydrogen oxide",
+        "water-t",
+        "aqua",
+        "shoe",
+        "gaze"
+    ],
+    "actions": [
+        {
+            "id": "8a1ab050-9a91-4beb-a571-6b1d93ddbd38",
+            "details": "PresQT Enhance Keywords in GitHub",
+            "actionDateTime": "2020-09-21 17:20:46.688043+00:00",
+            "actionType": "keyword_enhancement",
+            "sourceTargetName": "github",
+            "destinationTargetName": "github",
+            "sourceUsername": "N/A",
+            "destinationUsername": "N/A",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [
+                    "OXYGEN ATOM",
+                    "water",
+                    "Wasser",
+                    "DISORDERED SOLVENT",
+                    "Water",
+                    "oxidane",
+                    "dihydrogen oxide",
+                    "water-t",
+                    "aqua",
+                    "shoe",
+                    "gaze"
+                ],
+                "ontologies": [
+                    {
+                        "keywords": [
+                            "OXYGEN ATOM"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_25805",
+                        "ontology_id": "CHEBI_25805",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "water",
+                            "Wasser",
+                            "DISORDERED SOLVENT",
+                            "Water",
+                            "oxidane",
+                            "dihydrogen oxide",
+                            "aqua"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_15377",
+                        "ontology_id": "CHEBI_15377",
+                        "categories": [
+                            "Environmental material",
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "water-t"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_33811",
+                        "ontology_id": "CHEBI_33811",
+                        "categories": [
+                            "Environmental material",
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    }
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
