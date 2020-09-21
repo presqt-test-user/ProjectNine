@@ -1,27 +1,85 @@
 {
     "allKeywords": [
-        "covid19",
         "ds4c",
-        "datascienceforcovid-19",
-        "age-adjustedmortality",
-        "casefatalityrate",
-        "covid-19",
-        "risk",
-        "probabilityofdeath",
-        "age-adjustedcasefatalityrate",
-        "covid",
         "korean",
+        "riskofdeath",
+        "age-adjustedcasefatalityrate",
+        "mortalityrate",
+        "coronavirus",
+        "probabilityofdeath",
+        "covid",
+        "age-adjustedcasemortalityrate",
         "age-adjustedcasefatality",
         "riskofdeathbyage",
-        "mortalityrate",
+        "covid19",
+        "risk",
+        "deathrate",
+        "casefatalityrate",
+        "covid-19",
+        "age-adjustedmortality",
         "mortalitybyage",
         "casefatality",
-        "riskofdeath",
-        "coronavirus",
-        "deathrate",
-        "age-adjustedcasemortalityrate"
+        "datascienceforcovid-19"
     ],
     "actions": [
+        {
+            "id": "66f82e1a-0de9-4fda-a44e-72d7533cae63",
+            "details": "PresQT Enhance Keywords in GitHub",
+            "actionDateTime": "2020-09-21 17:11:03.503710+00:00",
+            "actionType": "keyword_enhancement",
+            "sourceTargetName": "github",
+            "destinationTargetName": "github",
+            "sourceUsername": "N/A",
+            "destinationUsername": "N/A",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [
+                    "tributyrate",
+                    "korec",
+                    "cardinality",
+                    "shoe",
+                    "gaze"
+                ],
+                "ontologies": [
+                    {
+                        "keywords": [
+                            "tributyrate"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_75316",
+                        "ontology_id": "CHEBI_75316",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "korec"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_8714",
+                        "ontology_id": "CHEBI_8714",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "cardinality"
+                        ],
+                        "ontology": "http://edamontology.org/data_2176",
+                        "ontology_id": "data_2176",
+                        "categories": []
+                    }
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
         {
             "id": "816771b3-96a5-4db4-9e6f-d5a38a094b9d",
             "details": "PresQT Enhance Keywords in GitHub",
