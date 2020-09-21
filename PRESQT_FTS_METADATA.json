@@ -1,0 +1,52 @@
+{
+    "allKeywords": [
+        "gaze",
+        "water",
+        "dog",
+        "wood",
+        "poop",
+        "shoe"
+    ],
+    "actions": [
+        {
+            "id": "12d9981a-66c6-4e31-a4b9-8ec6193a93d5",
+            "details": "PresQT Enhance Keywords in GitHub",
+            "actionDateTime": "2020-09-21 18:05:48.789408+00:00",
+            "actionType": "keyword_enhancement",
+            "sourceTargetName": "github",
+            "destinationTargetName": "github",
+            "sourceUsername": "N/A",
+            "destinationUsername": "N/A",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [
+                    "water",
+                    "shoe",
+                    "gaze",
+                    "poop",
+                    "dog"
+                ],
+                "ontologies": [
+                    {
+                        "keywords": [
+                            "water"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_15377",
+                        "ontology_id": "CHEBI_15377",
+                        "categories": [
+                            "Environmental material",
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    }
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
