@@ -1,20 +1,56 @@
 {
     "allKeywords": [
-        "aqua",
-        "poop",
-        "shoe",
-        "water",
-        "wasser",
-        "gaze",
-        "disordered solvent",
-        "wood",
-        "oxidane",
+        "o",
         "test",
+        "aqua",
+        "shoe",
+        "oxidane",
+        "wasser",
+        "wood",
+        "water",
         "dog",
         "oxygen atom",
-        "dihydrogen oxide"
+        "dihydrogen oxide",
+        "disordered solvent",
+        "gaze",
+        "poop"
     ],
     "actions": [
+        {
+            "id": "07ff8dbe-1e20-4f9f-b668-581b850c3bd6",
+            "details": "PresQT Enhance Keywords in GitHub",
+            "actionDateTime": "2020-10-26 18:55:34.076109+00:00",
+            "actionType": "keyword_enhancement",
+            "sourceTargetName": "github",
+            "destinationTargetName": "github",
+            "sourceUsername": "N/A",
+            "destinationUsername": "N/A",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [
+                    "o"
+                ],
+                "ontologies": [
+                    {
+                        "keywords": [
+                            "o"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_33819",
+                        "ontology_id": "CHEBI_33819",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    }
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
         {
             "id": "8164a6a9-a8e8-4f68-9c13-540870386f46",
             "details": "PresQT Enhance Keywords in GitHub",
